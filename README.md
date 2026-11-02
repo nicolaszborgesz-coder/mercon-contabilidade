@@ -1,4 +1,6 @@
 # Mercon Contabilidade - Automação Fiscal
+## Resultado Final
+![Planilha Final](resultado-final.png)
 
 Sistema em Python para escritórios contábeis que automatiza conciliação de NF-e.
 
