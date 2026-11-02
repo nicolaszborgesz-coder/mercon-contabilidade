@@ -1,4 +1,4 @@
-# Mercon Contabilidade - Automação Fiscal V5.1
+# Mercon Contabilidade - Automação Fiscal
 
 Sistema em Python para escritórios contábeis que automatiza conciliação de NF-e.
 
