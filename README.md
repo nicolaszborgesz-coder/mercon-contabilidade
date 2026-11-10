@@ -10,7 +10,7 @@ Sistema em Python para escritórios contábeis que automatiza conciliação de N
 - Identifica clientes por CNPJ (16 clientes simultâneos)
 - Classifica: `OK-CONCILIADO`, `PENDENTE PARCIAL/TOTAL`, `DIVERGENCIA`, `SOBRA BANCARIA`
 - Gera Excel profissional com 4 abas: CONCILIACAO, RESUMO, ERROS_XML, PASTAS_NAO_ENCONTRADAS
-- Estilo visual Mercon: Azul #17365D, Verde #C6EFCE, Amarelo #FFEB9C, Vermelho #FFC7CE
+- Estilo visual Mercon: Azul, Verde, Amarelo e Vermelho
 
 ### Stack
 Python • Decimal (precisão fiscal) • OpenPyXL • XML • CSV • Pathlib
